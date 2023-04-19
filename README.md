@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@praveenkm97" target="blank"><img src="https://img.shields.io/twitter/follow/@praveenkm97?logo=twitter&style=for-the-badge" alt="@praveenkm97" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m a **Full Stack Web Developer**
 
 - 👯 I’m looking to collaborate on [firstCry](https://github.com/unnati1004/firstcry.git)
 
